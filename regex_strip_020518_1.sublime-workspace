@@ -1395,7 +1395,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1820.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1451,7 +1451,7 @@
 	"project": "regex_strip_020518_1.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1470,7 +1470,7 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "html",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
